@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# 脚本运行时产物
+xhs_note/
+*_note/
+img/
